@@ -1,0 +1,36 @@
+{
+  "timesteps": 24,
+  "features": 12,
+  "feature_cols": [
+    "traffic_volume",
+    "temp",
+    "rain_1h",
+    "snow_1h",
+    "clouds_all",
+    "weather_code",
+    "hour",
+    "day_of_week",
+    "month",
+    "is_weekend",
+    "is_peak_morning",
+    "is_peak_evening"
+  ],
+  "traffic_col_index": 0,
+  "weather_map": {
+    "Clear": 0,
+    "Clouds": 1,
+    "Drizzle": 2,
+    "Haze": 3,
+    "Mist": 4,
+    "Rain": 5,
+    "Fog": 6,
+    "Snow": 7,
+    "Thunderstorm": 8,
+    "Squall": 9,
+    "Smoke": 10
+  },
+  "test_loss": 0.0008248646045103669,
+  "test_mae": 0.027731068432331085,
+  "epochs_trained": 41,
+  "dataset": "Metro Interstate Traffic Volume"
+}
