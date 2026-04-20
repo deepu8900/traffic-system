@@ -1,3 +1,6 @@
+![App Screenshot](images/output.png)
+
+
 # Hybrid Predictive Traffic Intelligence System (HPTIS)
 
 A full-stack AI system combining CCTV video analysis, live traffic data, and LSTM-based predictions to forecast traffic jams.
